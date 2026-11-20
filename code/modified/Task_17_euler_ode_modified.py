@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 r = 0.4
 K = 1000.0
 P_initial = 100.0
-h = 1.0  # days
+h = 1.0  
 end_time = 30.0
 
 
